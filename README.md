@@ -47,7 +47,7 @@ This is a reading list for deep learning for OCR.
 - Text Recognition in Videos using a Recurrent Connectionist Approach, Khaoula Elagouni, Christophe Garcia, Franck Mamalet1
 , and Pascale Sebillot, 2012. [pdf](http://liris.cnrs.fr/Documents/Liris-5660.pdf)
 
-- A Novel Word Spotting Method Based on Recurrent Neural Networks, Volkmar Frinken, Andreas Fischer, R. Manmatha, and Horst Bunke, 2012.[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.367.75&rep=rep1&type=pdf)
+- A Novel Word Spotting Method Based on Recurrent Neural Networks, Volkmar Frinken, Andreas Fischer, R. Manmatha, and Horst Bunke, TPAMI, 2012.[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.367.75&rep=rep1&type=pdf)
 
 - End-to-End Text Recognition with Convolutional Neural Networks, Tao Wang, David J. Wu, Adam Coates, Andrew Y. Ng, ICPR, 2012. [pdf](https://crypto.stanford.edu/~dwu4/papers/ICPR2012.pdf)
 
