@@ -27,20 +27,20 @@ This is a reading list for deep learning for OCR.
 - ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks, Francesco Visin, Kyle Kastner,Kyunghyun Cho, Matteo Matteucci,Aaron Courville, Yoshua Bengio. [pdf](https://arxiv.org/pdf/1505.00393.pdf)
 
 ### 2014 
-- A Comparison of Sequence-Trained Deep Neural Networks and Recurrent Neural Networks Optical Modeling for Handwriting Recognition, Theodore Bluche, Hermann Ney, and Christopher Kermorvant, slsp, 2014. [pdf](http://www.a2ialab.com/lib/exe/fetch.php?media=publications:slsp2014.pdf)
+- A Comparison of Sequence-Trained Deep Neural Networks and Recurrent Neural Networks Optical Modeling for Handwriting Recognition, Theodore Bluche, Hermann Ney, and Christopher Kermorvant, **SLSP**, 2014. [pdf](http://www.a2ialab.com/lib/exe/fetch.php?media=publications:slsp2014.pdf)
 
 - Towards End-to-End Speech Recognition with Recurrent Neural Networks. Alex Graves, Navdeep Jaitly. ICML, 2014. [pdf](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
 
-- Multi-digit Number Recognition from Street View, Imagery using Deep Convolutional Neural Networks, Ian J. Goodfellow, Yaroslav Bulatov, Julian Ibarz, Sacha Arnoud, Vinay Shet. 2014. [pdf](https://arxiv.org/pdf/1312.6082.pdf)
+- Multi-digit Number Recognition from Street View, Imagery using Deep Convolutional Neural Networks, Ian J. Goodfellow, Yaroslav Bulatov, Julian Ibarz, Sacha Arnoud, Vinay Shet, **ICLR**, 2014. [pdf](https://arxiv.org/pdf/1312.6082.pdf)
 
-- Deep Features for Text Spotting, European Conference on Computer Vision, M. Jaderberg, A. Vedaldi, A. Zisserman, 2014. [pdf](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf.pdf), [code](https://bitbucket.org/socialauth/migrate/?next=/jaderberg/eccv2014_textspotting)
+- Deep Features for Text Spotting, **ECCV**, M. Jaderberg, A. Vedaldi, A. Zisserman, 2014. [pdf](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf.pdf), [code](https://bitbucket.org/socialauth/migrate/?next=/jaderberg/eccv2014_textspotting)
 
 ### 2013
-- PhotoOCR: Reading Text in Uncontrolled Conditions, Alessandro Bissacco, Mark Cummins, Yuval Netzer, Hartmut Neven, 2013. [pdf](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
+- PhotoOCR: Reading Text in Uncontrolled Conditions, Alessandro Bissacco, Mark Cummins, Yuval Netzer, Hartmut Neven, **ICCV**, 2013. [pdf](https://ai2-s2-pdfs.s3.amazonaws.com/31a8/803d7e2618bfa44c472d003055bb5961b9de.pdf)
 
-- High Performance OCR for Printed English and Fraktur using LSTM Networks. ICDAR, 2013. [pdf](https://www.researchgate.net/profile/Adnan_Ul-Hasan/publication/260341302_High_Performance_OCR_for_Printed_English_and_Fraktur_using_LSTM_Networks/links/0deec530da5e58f067000000.pdf?origin=publication_detail)
+- High Performance OCR for Printed English and Fraktur using LSTM Networks. **ICDAR**, 2013. [pdf](https://www.researchgate.net/profile/Adnan_Ul-Hasan/publication/260341302_High_Performance_OCR_for_Printed_English_and_Fraktur_using_LSTM_Networks/links/0deec530da5e58f067000000.pdf?origin=publication_detail)
 
-- Image binarization for end-to-end text understanding in natural images, Sergey Milyaev, Olga Barinova, Tatiana Novikova, Pushmeet Kohli, Victor Lempitsky. ICDAR, 2013, [pdf](http://research.microsoft.com/en-us/um/people/pkohli/papers/mbnlk_icdar2013.pdf)
+- Image binarization for end-to-end text understanding in natural images, Sergey Milyaev, Olga Barinova, Tatiana Novikova, Pushmeet Kohli, Victor Lempitsky. **ICDAR**, 2013, [pdf](http://research.microsoft.com/en-us/um/people/pkohli/papers/mbnlk_icdar2013.pdf)
 
 
 ### 2012
