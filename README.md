@@ -23,6 +23,6 @@ This is a reading list for deep learning for OCR.
 - Image binarization for end-to-end text understanding in natural images, Sergey Milyaev, Olga Barinova, Tatiana Novikova, Pushmeet Kohli, Victor Lempitsky. ICDAR, 2013, [pdf](http://research.microsoft.com/en-us/um/people/pkohli/papers/mbnlk_icdar2013.pdf)
 - Deep Features for Text Spotting, European Conference on Computer Vision, M. Jaderberg, A. Vedaldi, A. Zisserman, 2014. [pdf](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf.pdf), [code](https://bitbucket.org/socialauth/migrate/?next=/jaderberg/eccv2014_textspotting)
 
-- Gated Recurrent Convolution Neural Network for OCR [pdf](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf)
+- Gated Recurrent Convolution Neural Network for OCR [pdf](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf) Wang, J., & Hu, X. (2017). In Advances in Neural Information Processing Systems (pp. 335-344).
 
 
