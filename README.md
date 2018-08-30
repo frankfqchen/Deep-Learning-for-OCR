@@ -9,7 +9,7 @@ This is a reading list for deep learning for OCR.
 - Optical Character Recognition (OCR), Marina Samuel, [blog](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
 - Text Recognition in Videos using a Recurrent Connectionist Approach, Khaoula Elagouni, Christophe Garcia, Franck Mamalet1
 , and Pascale Sebillot, 2012. [pdf](http://liris.cnrs.fr/Documents/Liris-5660.pdf)
-- A Novel Word Spotting Method Based on Recurrent Neural Networks, Volkmar Frinken, Andreas Fischer, R. Manmatha, and Horst Bunke, [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.367.75&rep=rep1&type=pdf)
+- A Novel Word Spotting Method Based on Recurrent Neural Networks, Volkmar Frinken, Andreas Fischer, R. Manmatha, and Horst Bunke, 2012.[pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.367.75&rep=rep1&type=pdf)
 - SEQUENCE TO SEQUENCE LEARNING FOR OPTICAL CHARACTER RECOGNITION, Devendra Kumar Sahu & Mohak Sukhwani, 2015, [pdf](http://arxiv.org/pdf/1511.04176.pdf)
 - Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition with MDLSTM Attention, Theodore Bluche Jerome Louradour, Ronaldo Messina, 2016. [pdf](https://arxiv.org/pdf/1604.03286.pdf)
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, Chen-Yu Lee, Simon Osindero, CVPR, 2016, [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf)
