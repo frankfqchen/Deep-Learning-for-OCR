@@ -6,6 +6,8 @@ This is a reading list for deep learning for OCR.
 ## Papers
 
 ### 2017
+- Detecting Oriented Text in Natural Images by Linking Segments, Shi, B., Bai, X., & Belongie, S. (2017, July). **CVPR** (pp. 3482-3490). IEEE. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf)
+
 - Gated Recurrent Convolution Neural Network for OCR [[pdf]](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf) [[code]](https://github.com/Jianfeng1991/GRCNN-for-OCR) Wang, J., & Hu, X. (2017). **NIPS** (pp. 335-344).
 
 - TextBoxes: A Fast Text Detector with a Single Deep Neural Network, Liao, M., Shi, B., Bai, X., Wang, X., & Liu, W. (2017, February). **AAAI** (pp. 4161-4167).[[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295)
