@@ -8,6 +8,8 @@ This is a reading list for deep learning for OCR.
 ### 2017
 - Gated Recurrent Convolution Neural Network for OCR [[pdf]](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf) [[code]](https://github.com/Jianfeng1991/GRCNN-for-OCR) Wang, J., & Hu, X. (2017). **NIPS** (pp. 335-344).
 
+- Deep Direct Regression for Multi-Oriented Scene Text Detection, He, W., Zhang, X. Y., Yin, F., & Liu, C. L. (2017). **ICCV** (pp. 745-753). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Deep_Direct_Regression_ICCV_2017_paper.pdf)
+
 - An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition [[pdf]](http://www.vlrlab.net/admin/uploads/avatars/An_End-to-End_Trainable_Neural_Network_for_Image-based_Sequence_Recognition_and_Its_Application_to_Scene_Text_Recognition.pdf) [[code]](https://github.com/bgshih/crnn)
 Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
