@@ -19,6 +19,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - Implicit Language Model in LSTM for OCR, Sabir, E., Rawls, S., & Natarajan, P. (2017, November). **ICDAR**, (Vol. 7, pp. 27-31). IEEE.[[pdf]](https://arxiv.org/pdf/1805.09441.pdf)
 
+- Towards end-to-end text spotting with convolutional recurrent neural networks, Li, H., Wang, P., & Shen, C. (2017, October). **ICCV** (pp. 5238-5246). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
+
 
 ### 2016
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. **IJCV**, *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842) [[code]](https://github.com/mathDR/reading-text-in-the-wild)
@@ -27,12 +29,16 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - Reading Scene Text in Deep Convolutional Sequences, Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, and Xiaoou Tang, **AAAI**, 2016, [pdf](http://www.whuang.org/papers/phe2016_aaai.pdf)
 
+- You only look once: Unified, real-time object detection, Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). **CVPR**  (pp. 779-788). [[pdf]](https://pjreddie.com/media/files/papers/yolo.pdf)
+
 ### 2015
 - Unsupervised feature learning for optical character recognition, Sahu, D. K., & Jawahar, C. V. (2015, August). **ICDAR** (pp. 1041-1045). IEEE. [[pdf]](https://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2015/Devendra2015Unsupervised.pdf)
 
 - Sequence to sequence learning for optical character recognition, Devendra Kumar Sahu & Mohak Sukhwani, 2015, [pdf](http://arxiv.org/pdf/1511.04176.pdf)
 
 - ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks, Francesco Visin, Kyle Kastner,Kyunghyun Cho, Matteo Matteucci,Aaron Courville, Yoshua Bengio. [pdf](https://arxiv.org/pdf/1505.00393.pdf)
+
+- Faster r-cnn: Towards real-time object detection with region proposal networks, Ren, S., He, K., Girshick, R., & Sun, J. (2015). **NIPS** (pp. 91-99). [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
 
 ### 2014 
 - A Comparison of Sequence-Trained Deep Neural Networks and Recurrent Neural Networks Optical Modeling for Handwriting Recognition, Theodore Bluche, Hermann Ney, and Christopher Kermorvant, **SLSP**, 2014. [pdf](http://www.a2ialab.com/lib/exe/fetch.php?media=publications:slsp2014.pdf)
@@ -49,6 +55,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 - High Performance OCR for Printed English and Fraktur using LSTM Networks. **ICDAR**, 2013. [pdf](https://www.researchgate.net/profile/Adnan_Ul-Hasan/publication/260341302_High_Performance_OCR_for_Printed_English_and_Fraktur_using_LSTM_Networks/links/0deec530da5e58f067000000.pdf?origin=publication_detail)
 
 - Image binarization for end-to-end text understanding in natural images, Sergey Milyaev, Olga Barinova, Tatiana Novikova, Pushmeet Kohli, Victor Lempitsky. **ICDAR**, 2013, [pdf](http://research.microsoft.com/en-us/um/people/pkohli/papers/mbnlk_icdar2013.pdf)
+
+- Multi-digit number recognition from street view imagery using deep convolutional neural networks, Goodfellow, I. J., Bulatov, Y., Ibarz, J., Arnoud, S., & Shet, V. (2013). arXiv preprint arXiv:1312.6082. [[pdf]](https://arxiv.org/pdf/1312.6082.pdf)
 
 
 ### 2012
