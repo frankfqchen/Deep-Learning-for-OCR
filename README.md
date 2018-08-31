@@ -28,7 +28,7 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 - Reading Scene Text in Deep Convolutional Sequences, Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, and Xiaoou Tang, **AAAI**, 2016, [pdf](http://www.whuang.org/papers/phe2016_aaai.pdf)
 
 ### 2015
-
+- Unsupervised feature learning for optical character recognition, Sahu, D. K., & Jawahar, C. V. (2015, August). **ICDAR** (pp. 1041-1045). IEEE. [[pdf]](https://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2015/Devendra2015Unsupervised.pdf)
 
 - Sequence to sequence learning for optical character recognition, Devendra Kumar Sahu & Mohak Sukhwani, 2015, [pdf](http://arxiv.org/pdf/1511.04176.pdf)
 
