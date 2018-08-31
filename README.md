@@ -17,6 +17,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - Combining deep learning and language modeling for segmentation-free OCR from raw pixels, Rawls, S., Cao, H., Sabir, E., & Natarajan, P. (2017, April) **ASAR**, (pp. 119-123). IEEE. [[pdf]](https://ieeexplore.ieee.org/document/8067772/)
 
+- Implicit Language Model in LSTM for OCR, Sabir, E., Rawls, S., & Natarajan, P. (2017, November). **ICDAR**, (Vol. 7, pp. 27-31). IEEE.[[pdf]](https://arxiv.org/pdf/1805.09441.pdf)
+
 
 ### 2016
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. **IJCV**, *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842) [[code]](https://github.com/mathDR/reading-text-in-the-wild)
