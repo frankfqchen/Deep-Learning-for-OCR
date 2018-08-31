@@ -28,7 +28,7 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 - Reading Scene Text in Deep Convolutional Sequences, Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, and Xiaoou Tang, **AAAI**, 2016, [pdf](http://www.whuang.org/papers/phe2016_aaai.pdf)
 
 ### 2015
-- The Unreasonable Effectiveness of Recurrent Neural Networks, Andrej Karpathy, 2015, [blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 
 - Sequence to sequence learning for optical character recognition, Devendra Kumar Sahu & Mohak Sukhwani, 2015, [pdf](http://arxiv.org/pdf/1511.04176.pdf)
 
@@ -62,7 +62,9 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 ### Other
 
-- Optical Character Recognition (OCR), Marina Samuel, [blog](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
+- Optical Character Recognition (OCR), Marina Samuel, [[blog]](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
+
+- The Unreasonable Effectiveness of Recurrent Neural Networks, Andrej Karpathy, 2015, [[blog]](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## Keynote
 * [Deep Neural Networks for Scene Text Reading](http://u-pat.org/ICDAR2017/keynotes/ICDAR2017_Keynote_Prof_Bai.pdf) Deep Neural Networks for Scene Text Reading, Xiang Bai, Huazhong University of Science and Technology
