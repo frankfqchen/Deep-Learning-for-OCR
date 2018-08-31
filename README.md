@@ -13,7 +13,7 @@ This is a reading list for deep learning for OCR.
 
 - Gated Recurrent Convolution Neural Network for OCR [[pdf]](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf) [[code]](https://github.com/Jianfeng1991/GRCNN-for-OCR) Wang, J., & Hu, X. (2017). **NIPS** (pp. 335-344).
 
-- TextBoxes: A Fast Text Detector with a Single Deep Neural Network, Liao, M., Shi, B., Bai, X., Wang, X., & Liu, W. (2017, February). **AAAI** (pp. 4161-4167).[[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295)
+- TextBoxes: A Fast Text Detector with a Single Deep Neural Network, Liao, M., Shi, B., Bai, X., Wang, X., & Liu, W. (2017, February). **AAAI** (pp. 4161-4167).[[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14202/14295) [[code]](https://github.com/MhLiao/TextBoxes)
 
 - Deep Direct Regression for Multi-Oriented Scene Text Detection, He, W., Zhang, X. Y., Yin, F., & Liu, C. L. (2017). **ICCV** (pp. 745-753). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Deep_Direct_Regression_ICCV_2017_paper.pdf)
 
