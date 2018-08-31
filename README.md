@@ -41,6 +41,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - You only look once: Unified, real-time object detection, Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). **CVPR**  (pp. 779-788). [[pdf]](https://pjreddie.com/media/files/papers/yolo.pdf)
 
+- Scene text detection via holistic, multi-channel prediction, Yao, C., Bai, X., Sang, N., Zhou, X., Zhou, S., & Cao, Z. (2016). arXiv preprint arXiv:1606.09002. [[pdf]](https://arxiv.org/pdf/1606.09002.pdf)
+
 ### 2015
 - Unsupervised feature learning for optical character recognition, Sahu, D. K., & Jawahar, C. V. (2015, August). **ICDAR** (pp. 1041-1045). IEEE. [[pdf]](https://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2015/Devendra2015Unsupervised.pdf)
 
