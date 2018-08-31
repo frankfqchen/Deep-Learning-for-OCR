@@ -42,6 +42,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - Faster r-cnn: Towards real-time object detection with region proposal networks, Ren, S., He, K., Girshick, R., & Sun, J. (2015). **NIPS** (pp. 91-99). [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
 
+- Symmetry-based text line detection in natural scenes, Zhang, Z., Shen, W., Yao, C., & Bai, X. (2015). **CVPR** (pp. 2558-2567). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Symmetry-Based_Text_Line_2015_CVPR_paper.pdf)
+
 ### 2014 
 - A Comparison of Sequence-Trained Deep Neural Networks and Recurrent Neural Networks Optical Modeling for Handwriting Recognition, Theodore Bluche, Hermann Ney, and Christopher Kermorvant, **SLSP**, 2014. [pdf](http://www.a2ialab.com/lib/exe/fetch.php?media=publications:slsp2014.pdf)
 
