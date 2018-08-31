@@ -5,8 +5,11 @@ This is a reading list for deep learning for OCR.
 
 ## Papers
 
+### 2018 
+- Deng, D., Liu, H., Li, X., & Cai, D. (2018). PixelLink: Detecting Scene Text via Instance Segmentation. arXiv preprint arXiv:1801.01315. [[pdf]](https://arxiv.org/pdf/1801.01315.pdf) [[code]](https://github.com/ZJULearning/pixel_link)
+
 ### 2017
-- Detecting Oriented Text in Natural Images by Linking Segments, Shi, B., Bai, X., & Belongie, S. (2017, July). **CVPR** (pp. 3482-3490). IEEE. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf)
+- Detecting Oriented Text in Natural Images by Linking Segments, Shi, B., Bai, X., & Belongie, S. (2017, July). **CVPR** (pp. 3482-3490). IEEE. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shi_Detecting_Oriented_Text_CVPR_2017_paper.pdf) [[code]](https://github.com/dengdan/seglink)
 
 - Gated Recurrent Convolution Neural Network for OCR [[pdf]](https://papers.nips.cc/paper/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf) [[code]](https://github.com/Jianfeng1991/GRCNN-for-OCR) Wang, J., & Hu, X. (2017). **NIPS** (pp. 335-344).
 
