@@ -11,6 +11,8 @@ This is a reading list for deep learning for OCR.
 - An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition [[pdf]](http://www.vlrlab.net/admin/uploads/avatars/An_End-to-End_Trainable_Neural_Network_for_Image-based_Sequence_Recognition_and_Its_Application_to_Scene_Text_Recognition.pdf) [[code]](https://github.com/bgshih/crnn)
 Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
+- EAST: an efficient and accurate scene text detector, Zhou, X., Yao, C., Wen, H., Wang, Y., Zhou, S., He, W., & Liang, J. (2017, July). **CVPR** (pp. 2642-2651).[[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf)
+
 - Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition with MDLSTM Attention, Theodore Bluche Jerome Louradour, Ronaldo Messina, **ICDAR**, 2017. [pdf](https://arxiv.org/pdf/1604.03286.pdf)
 
 - Combining Convolutional Neural Networks and LSTMs for Segmentation-Free OCR, Rawls, S., Cao, H., Kumar, S., & Natarajan, P. (2017, November). **ICDAR**,  (Vol. 1, pp. 155-160). IEEE. [[pdf]](https://ieeexplore.ieee.org/document/8269965/)
