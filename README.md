@@ -23,6 +23,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 
 ### 2016
+- Deeptext: A unified framework for text proposal generation and text detection in natural images, Zhong, Z., Jin, L., Zhang, S., & Feng, Z. (2016). arXiv preprint arXiv:1605.07314. [[pdf]](https://arxiv.org/pdf/1605.07314.pdf)
+
 - Synthetic data for text localisation in natural images, Gupta, A., Vedaldi, A., & Zisserman, A. (2016). **CVPR** (pp. 2315-2324). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf)
 
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. **IJCV**, *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842) [[code]](https://github.com/mathDR/reading-text-in-the-wild)
