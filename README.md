@@ -103,4 +103,7 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 ## Keynote
 * [Deep Neural Networks for Scene Text Reading](http://u-pat.org/ICDAR2017/keynotes/ICDAR2017_Keynote_Prof_Bai.pdf) Deep Neural Networks for Scene Text Reading, Xiang Bai, Huazhong University of Science and Technology
 
+## Thesis
+- Deep Learning for Text Spotting, Robotics Research Group, Department of Engineering Science, University of Oxford  [[pdf]](https://www.robots.ox.ac.uk/~vgg/publications/2015/Jaderberg15b/jaderberg15b.pdf)
+
 
