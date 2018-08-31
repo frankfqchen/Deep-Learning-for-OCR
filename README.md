@@ -21,6 +21,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - Towards end-to-end text spotting with convolutional recurrent neural networks, Li, H., Wang, P., & Shen, C. (2017, October). **ICCV** (pp. 5238-5246). [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Towards_End-To-End_Text_ICCV_2017_paper.pdf)
 
+- Deep matching prior network: Toward tighter multi-oriented text detection, Liu, Y., & Jin, L. (2017, March). **CVPR** (pp. 3454-3461). [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_Deep_Matching_Prior_CVPR_2017_paper.pdf)
+
 
 ### 2016
 - Deeptext: A unified framework for text proposal generation and text detection in natural images, Zhong, Z., Jin, L., Zhang, S., & Feng, Z. (2016). arXiv preprint arXiv:1605.07314. [[pdf]](https://arxiv.org/pdf/1605.07314.pdf)
