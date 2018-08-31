@@ -1,5 +1,6 @@
 # Deep Learning for OCR
 This is a reading list for deep learning for OCR. 
+
 [OCR paper and codes](http://swinghu.github.io/deep_learning/2015/10/09/ocr.html)
 
 ## Papers
