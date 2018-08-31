@@ -45,6 +45,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 ### 2014 
 - A Comparison of Sequence-Trained Deep Neural Networks and Recurrent Neural Networks Optical Modeling for Handwriting Recognition, Theodore Bluche, Hermann Ney, and Christopher Kermorvant, **SLSP**, 2014. [pdf](http://www.a2ialab.com/lib/exe/fetch.php?media=publications:slsp2014.pdf)
 
+- Orientation robust text line detection in natural images, Kang, L., Li, Y., & Doermann, D. (2014). **CVPR** (pp. 4034-4041). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kang_Orientation_Robust_Text_2014_CVPR_paper.pdf)
+
 - Towards End-to-End Speech Recognition with Recurrent Neural Networks. Alex Graves, Navdeep Jaitly. ICML, 2014. [pdf](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
 
 - Multi-digit Number Recognition from Street View, Imagery using Deep Convolutional Neural Networks, Ian J. Goodfellow, Yaroslav Bulatov, Julian Ibarz, Sacha Arnoud, Vinay Shet, **ICLR**, 2014. [pdf](https://arxiv.org/pdf/1312.6082.pdf)
