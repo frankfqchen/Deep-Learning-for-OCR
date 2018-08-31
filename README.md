@@ -25,6 +25,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 ### 2016
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. **IJCV**, *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842) [[code]](https://github.com/mathDR/reading-text-in-the-wild)
 
+- Detecting text in natural image with connectionist text proposal network, Tian, Z., Huang, W., He, T., He, P., & Qiao, Y. (2016, October). **ECCV** (pp. 56-72). Springer, Cham. [[pdf]](https://arxiv.org/pdf/1609.03605.pdf)
+
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, Chen-Yu Lee, Simon Osindero, **CVPR**, 2016, [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf)
 
 - Reading Scene Text in Deep Convolutional Sequences, Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, and Xiaoou Tang, **AAAI**, 2016, [pdf](http://www.whuang.org/papers/phe2016_aaai.pdf)
