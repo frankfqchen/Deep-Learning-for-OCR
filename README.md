@@ -51,6 +51,9 @@ This is a reading list for deep learning for OCR.
 
 - End-to-End Text Recognition with Convolutional Neural Networks, Tao Wang, David J. Wu, Adam Coates, Andrew Y. Ng, **ICPR**, 2012. [pdf](https://crypto.stanford.edu/~dwu4/papers/ICPR2012.pdf)
 
+
+### Other
+
 - Optical Character Recognition (OCR), Marina Samuel, [blog](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
 
 
