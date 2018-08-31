@@ -13,6 +13,10 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition with MDLSTM Attention, Theodore Bluche Jerome Louradour, Ronaldo Messina, **ICDAR**, 2017. [pdf](https://arxiv.org/pdf/1604.03286.pdf)
 
+- Combining Convolutional Neural Networks and LSTMs for Segmentation-Free OCR, Rawls, S., Cao, H., Kumar, S., & Natarajan, P. (2017, November). **ICDAR**,  (Vol. 1, pp. 155-160). IEEE. [[pdf]](https://ieeexplore.ieee.org/document/8269965/)
+
+- Combining deep learning and language modeling for segmentation-free OCR from raw pixels, Rawls, S., Cao, H., Sabir, E., & Natarajan, P. (2017, April) **ASAR**, (pp. 119-123). IEEE. [[pdf]](https://ieeexplore.ieee.org/document/8067772/)
+
 
 ### 2016
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. **IJCV**, *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842) [[code]](https://github.com/mathDR/reading-text-in-the-wild)
