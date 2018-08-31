@@ -14,13 +14,12 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 - Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition with MDLSTM Attention, Theodore Bluche Jerome Louradour, Ronaldo Messina, **ICDAR**, 2017. [pdf](https://arxiv.org/pdf/1604.03286.pdf)
 
 
-
 ### 2016
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. **IJCV**, *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842) [[code]](https://github.com/mathDR/reading-text-in-the-wild)
 
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, Chen-Yu Lee, Simon Osindero, **CVPR**, 2016, [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf)
 
-- Reading Scene Text in Deep Convolutional Sequences, Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, and Xiaoou Tang, 2016, [pdf](http://www.whuang.org/papers/phe2016_aaai.pdf)
+- Reading Scene Text in Deep Convolutional Sequences, Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, and Xiaoou Tang, **AAAI**, 2016, [pdf](http://www.whuang.org/papers/phe2016_aaai.pdf)
 
 ### 2015
 - The Unreasonable Effectiveness of Recurrent Neural Networks, Andrej Karpathy, 2015, [blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
