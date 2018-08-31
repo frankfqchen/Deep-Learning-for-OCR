@@ -23,6 +23,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 
 ### 2016
+- Synthetic data for text localisation in natural images, Gupta, A., Vedaldi, A., & Zisserman, A. (2016). **CVPR** (pp. 2315-2324). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf)
+
 - Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. **IJCV**, *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842) [[code]](https://github.com/mathDR/reading-text-in-the-wild)
 
 - Detecting text in natural image with connectionist text proposal network, Tian, Z., Huang, W., He, T., He, P., & Qiao, Y. (2016, October). **ECCV** (pp. 56-72). Springer, Cham. [[pdf]](https://arxiv.org/pdf/1609.03605.pdf)
