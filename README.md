@@ -16,7 +16,7 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 
 ### 2016
-- Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842) [[code]](https://github.com/mathDR/reading-text-in-the-wild)
+- Reading text in the wild with convolutional neural networks (2016), M. Jaderberg et al. **IJCV**, *(DeepMind)* [[pdf]](http://arxiv.org/pdf/1412.1842) [[code]](https://github.com/mathDR/reading-text-in-the-wild)
 
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild, Chen-Yu Lee, Simon Osindero, **CVPR**, 2016, [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf)
 
