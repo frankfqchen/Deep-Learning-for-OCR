@@ -61,4 +61,7 @@ Shi, B., Bai, X., & Yao, C. (2017). IEEE transactions on pattern analysis and ma
 
 - Optical Character Recognition (OCR), Marina Samuel, [blog](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
 
+## Keynote
+* [Deep Neural Networks for Scene Text Reading](http://u-pat.org/ICDAR2017/keynotes/ICDAR2017_Keynote_Prof_Bai.pdf) Deep Neural Networks for Scene Text Reading, Xiang Bai, Huazhong University of Science and Technology
+
 
