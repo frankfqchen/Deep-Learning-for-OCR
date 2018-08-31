@@ -69,6 +69,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - End-to-End Text Recognition with Convolutional Neural Networks, Tao Wang, David J. Wu, Adam Coates, Andrew Y. Ng, **ICPR**, 2012. [pdf](https://crypto.stanford.edu/~dwu4/papers/ICPR2012.pdf)
 
+- Detecting texts of arbitrary orientations in natural images, Yao, C., Bai, X., Liu, W., Ma, Y., & Tu, Z. (2012, June). **CVPR** (pp. 1083-1090). IEEE. [[pdf]](http://www.iapr-tc11.org/dataset/MSRA-TD500/Detecting_Texts_of_Arbitrary_Orientations_in_Natural_Images.pdf)
+
 
 ### Other
 
