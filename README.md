@@ -50,7 +50,7 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - Reading Scene Text in Deep Convolutional Sequences, Pan He, Weilin Huang, Yu Qiao, Chen Change Loy, and Xiaoou Tang, **AAAI**, 2016, [pdf](http://www.whuang.org/papers/phe2016_aaai.pdf)
 
-- You only look once: Unified, real-time object detection, Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). **CVPR**  (pp. 779-788). [[pdf]](https://pjreddie.com/media/files/papers/yolo.pdf)
+- You only look once: Unified, real-time object detection, Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). **CVPR**  (pp. 779-788). [[pdf]](https://pjreddie.com/media/files/papers/yolo.pdf) [[code]](https://github.com/pjreddie/darknet)
 
 - Scene text detection via holistic, multi-channel prediction, Yao, C., Bai, X., Sang, N., Zhou, X., Zhou, S., & Cao, Z. (2016). arXiv preprint arXiv:1606.09002. [[pdf]](https://arxiv.org/pdf/1606.09002.pdf)
 
