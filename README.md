@@ -96,6 +96,9 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 
 - Detecting texts of arbitrary orientations in natural images, Yao, C., Bai, X., Liu, W., Ma, Y., & Tu, Z. (2012, June). **CVPR** (pp. 1083-1090). IEEE. [[pdf]](http://www.iapr-tc11.org/dataset/MSRA-TD500/Detecting_Texts_of_Arbitrary_Orientations_in_Natural_Images.pdf)[[dataset]](http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500))
 
+### 2011
+- Robust text detection in natural images with edge-enhanced maximally stable extremal regions, Chen, H., Tsai, S. S., Schroth, G., Chen, D. M., Grzeszczuk, R., & Girod, B. (2011, September). **ICIP** (pp. 2609-2612). IEEE. [[pdf]](http://www.stanford.edu/~hchen2/papers/ICIP2011_RobustTextDetection.pdf) [[code]](https://github.com/subokita/Robust-Text-Detection)
+
 
 ### Other
 
