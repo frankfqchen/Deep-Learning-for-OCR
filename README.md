@@ -38,6 +38,9 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 ### 2016
 - Multi-oriented text detection with fully convolutional networks, Zhang, Z., Zhang, C., Shen, W., Yao, C., Liu, W., & Bai, X. (2016). **CVPR** (pp. 4159-4167). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Multi-Oriented_Text_Detection_CVPR_2016_paper.pdf)
 
+- Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016, October). Ssd: Single shot multibox detector. In European conference on computer vision (pp. 21-37). Springer, Cham.  [[pdf]](https://www.cs.unc.edu/~wliu/papers/ssd.pdf
+) [[code]](https://github.com/weiliu89/caffe/tree/ssd)
+
 - Deeptext: A unified framework for text proposal generation and text detection in natural images, Zhong, Z., Jin, L., Zhang, S., & Feng, Z. (2016). arXiv preprint arXiv:1605.07314. [[pdf]](https://arxiv.org/pdf/1605.07314.pdf)
 
 - Synthetic data for text localisation in natural images, Gupta, A., Vedaldi, A., & Zisserman, A. (2016). **CVPR** (pp. 2315-2324). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf)
