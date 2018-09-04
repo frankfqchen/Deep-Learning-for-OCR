@@ -66,6 +66,8 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 - Symmetry-based text line detection in natural scenes, Zhang, Z., Shen, W., Yao, C., & Bai, X. (2015). **CVPR** (pp. 2558-2567). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Symmetry-Based_Text_Line_2015_CVPR_paper.pdf)
 
 ### 2014 
+- Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation, Girshick, R., Donahue, J., Darrell, T., & Malik, J. (2014). **CVPR** (pp. 580-587). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf?spm=5176.100239.blogcont55892.8.pm8zm1&file=Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[code]](https://github.com/rbgirshick/rcnn)
+
 - A Comparison of Sequence-Trained Deep Neural Networks and Recurrent Neural Networks Optical Modeling for Handwriting Recognition, Theodore Bluche, Hermann Ney, and Christopher Kermorvant, **SLSP**, 2014. [pdf](http://www.a2ialab.com/lib/exe/fetch.php?media=publications:slsp2014.pdf)
 
 - Orientation robust text line detection in natural images, Kang, L., Li, Y., & Doermann, D. (2014). **CVPR** (pp. 4034-4041). [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Kang_Orientation_Robust_Text_2014_CVPR_paper.pdf)
