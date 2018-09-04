@@ -104,6 +104,9 @@ Shi, B., Bai, X., & Yao, C. (2017). **TPAMI**, 39(11), 2298-2304.
 ### 2011
 - Robust text detection in natural images with edge-enhanced maximally stable extremal regions, Chen, H., Tsai, S. S., Schroth, G., Chen, D. M., Grzeszczuk, R., & Girod, B. (2011, September). **ICIP** (pp. 2609-2612). IEEE. [[pdf]](http://www.stanford.edu/~hchen2/papers/ICIP2011_RobustTextDetection.pdf) [[code]](https://github.com/subokita/Robust-Text-Detection)
 
+### 2010
+- Object detection with discriminatively trained part-based models, Felzenszwalb, P. F., Girshick, R. B., McAllester, D., & Ramanan, D. (2010). **TPAMI**, 32(9), 1627-1645. [[pdf]](http://vision.ics.uci.edu/papers/FelzenszwalbGMR_PAMI_2009/FelzenszwalbGMR_PAMI_2009.pdf) [[code]](https://github.com/rbgirshick/voc-dpm)
+
 
 ### Other
 
